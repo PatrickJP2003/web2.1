@@ -1,0 +1,22 @@
+[{
+    "id": 0,
+    "nombre":"Picachu",
+    "peso": 6.4,
+    "imagen":"https://i.blogs.es/d13beb/capitan-pikachu/1366_2000.jpeg",
+  "tipo":1},
+
+   { "id": 1,
+    "nombre":"Vaporeon",
+    "peso": 6.4,
+    "imagen":"https://kidstop.com.mx/cdn/shop/products/PO-STIC-4580287666374_grande.jpg?v=1706409866",
+    "tipo":2},
+    
+    {
+      "id": 2,
+     "nombre":"SnorLax",
+      "peso": 8.4,
+      "imagen":"https://i.blogs.es/035716/1366_2000/450_1000.jpeg",
+      "tipo":3
+    }
+
+]
